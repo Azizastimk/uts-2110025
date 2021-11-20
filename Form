@@ -1,0 +1,19 @@
+<html>
+<head>  
+    <title>Form</title>
+</head>
+<body bgcolor="#FFEFEC">
+<tr>
+    <td>Kampus</td>
+    <td>:</td>
+    <td><input type="text"  name="Teknik Informasi" size="100"></td>
+</tr>
+<tr>
+    <td>Prodi</td>
+    <td>:</td>
+    <td><select name="Prodi">
+    <option>Teknik Informatika</option>
+    <option>Sistem Informasi</option>
+</select></td>
+</tr>
+</html>
